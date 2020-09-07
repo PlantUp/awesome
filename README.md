@@ -8,7 +8,7 @@
 _Just the cool_ things you may need to get started with [__vertical farming in the cloud__](https://plant-up.cloud)
 
 ## Table of context 📜 
-0. [Open-Source-Concept](#open-source-concept🕍)
+0. [Open-Source-Concept](#open-source-concept)
 1. [Infrastructure](#infrastructure)
 2. [Development](#development)
 3. [Plants](#plants)
@@ -17,10 +17,10 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 4. [Knowledge](#knowledge)  
 ```...```
 
-## Open-Source-Concept 🕍
+## Open-Source-Concept
 * _TODO_  
 ```...```
-## Infrastructure 🔩  
+## Infrastructure
 * [AWS EKS](https://aws.amazon.com/eks)  
   We want to be able to scale to the size needed, but retain the freedom of moving between clouds.
   Who has time to manage a K8S? We want to Code! ❤️
@@ -44,7 +44,7 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 * [Cert Manager](https://cert-manager.io/)
   BugMeNot for TSL Encryption.  
 ```...```
-## Development 🖼️ 
+## Development
 * [GitHub Actions](https://github.com/features/actions)
   A nice and easy workflow plattform for GitHub projects.  
   Has a good Pulumi integration.  
@@ -61,10 +61,10 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 * [H3](https://eng.uber.com/h3/)  
   Uber mapped the world in hexagons. One number to know a specific location.  
 ```...```
-## Plants 🌵
+## Plants
 * _TODO_  
 ```...```
-## Dataflow 🌊 
+## Dataflow
 * [CockroachDB](https://www.cockroachlabs.com/)  
   This incredible oss pendant to spanner is the heart of our data-plattform. We love it's ease to use and scalability.
 * [EMQX Broker](https://www.emqx.io/)  
@@ -74,11 +74,11 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 * [Protobuf](https://developers.google.com/protocol-buffers/)  
   Integrated in MQTT we have a small and safe package to deliver.  
 ```...```
-## Devices 📟 
+## Devices
 * [The Update Framework](https://theupdateframework.io/)  
   A safety framework on how to handle things with and around updates.  
 ```...```
-## Knowledge 📚 
+## Knowledge
 * [WikiJS](https://wiki.js.org/)  
   A wiki that can used to read and write from a git repository.
 * [GitHub](https://github.com/)  
