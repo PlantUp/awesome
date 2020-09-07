@@ -14,11 +14,11 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 3. [Plants](#plants)
 4. [Dataflow](#dataflow)
 5. [Devices](#devices)
-4. [Knowledge](#knowledge)
+4. [Knowledge](#knowledge)  
 ```...```
 
 ## Open-Source-Concept 🕍 
-* _TODO_
+* _TODO_  
 ```...```
 ## Infrastructure 🔩  
 * [AWS EKS](https://aws.amazon.com/eks)  
@@ -42,7 +42,7 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 * [NGINX Ingress](https://kubernetes.github.io/ingress-nginx/)  
   The most used Ingress-controller for K8S.
 * [Cert Manager](https://cert-manager.io/)
-  BugMeNot for TSL Encryption.
+  BugMeNot for TSL Encryption.  
 ```...```
 ## Development 🖼️ 
 * [GitHub Actions](https://github.com/features/actions)
@@ -59,11 +59,10 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 * [Redux](https://redux.js.org/)  
   State needs to be in one state. Especially settings ...  
 * [H3](https://eng.uber.com/h3/)  
-  Uber mapped the world in hexagons. One number to know a specific location.
-* [Protobuf](https://developers.google.com/protocol-buffers/)
+  Uber mapped the world in hexagons. One number to know a specific location.  
 ```...```
 ## Plants 🌵
-* _TODO_
+* _TODO_  
 ```...```
 ## Dataflow 🌊 
 * [CockroachDB](https://www.cockroachlabs.com/)  
@@ -73,7 +72,7 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 * [AWS S3](https://aws.amazon.com/s3)  
   Easier Storage? Nope.
 * [Protobuf](https://developers.google.com/protocol-buffers/)  
-  Integrated in MQTT we have a small and safe package to deliver.
+  Integrated in MQTT we have a small and safe package to deliver.  
 ```...```
 ## Devices 📟 
 * [The Update Framework](https://theupdateframework.io/)  
@@ -83,7 +82,7 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 * [WikiJS](https://wiki.js.org/)  
   A wiki that can used to read and write from a git repository.
 * [GitHub](https://github.com/)  
-  GutHub is our single source of truth.
+  GutHub is our single source of truth.  
 ```...```
 
 ---
