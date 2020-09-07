@@ -8,7 +8,7 @@
 _Just the cool_ things you may need to get started with [__vertical farming in the cloud__](https://plant-up.cloud)
 
 ## Table of context 📜 
-0. [Open-Source-Concept](#open-source-concept)
+0. [Open-Source-Concept](#open-source-concept 🕍)
 1. [Infrastructure](#infrastructure)
 2. [Development](#development)
 3. [Plants](#plants)
@@ -17,7 +17,7 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
 4. [Knowledge](#knowledge)  
 ```...```
 
-## Open-Source-Concept 🕍 
+## Open-Source-Concept 🕍
 * _TODO_  
 ```...```
 ## Infrastructure 🔩  
