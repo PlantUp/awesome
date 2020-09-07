@@ -45,7 +45,7 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
   BugMeNot for TSL Encryption.  
 ```...```
 ## Development
-* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Actions](https://github.com/features/actions)  
   A nice and easy workflow plattform for GitHub projects.  
   Has a good Pulumi integration.  
 * [Golang](https://golang.org/)  
