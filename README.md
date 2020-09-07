@@ -1,7 +1,7 @@
 
 <img src="http://plant-up.cloud/assets/logo.png" height="250px" >  
 
-# Awesome Plant.Up🌿
+# Awesome Plant.Up 🌿
 
 [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PlantUp/awesome)
 
