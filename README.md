@@ -60,6 +60,8 @@ _Just the cool_ things you may need to get started with [__vertical farming in t
   State needs to be in one state. Especially settings ...  
 * [H3](https://eng.uber.com/h3/)  
   Uber mapped the world in hexagons. One number to know a specific location.  
+* [Apex](https://apexcharts.com/)  
+  Charts
 ```...```
 ## Plants
 * _TODO_  
